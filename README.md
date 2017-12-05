@@ -1,4 +1,4 @@
-# drip
+# DRIP
 
 IPython notebooks and python files documenting and exploring processes and analyses used to drive the DRIP application
 
